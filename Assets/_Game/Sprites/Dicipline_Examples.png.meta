@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 4b8a0649a5485a248b2614890dcf7e4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3806314422722700820
+    second: Dicipline_Examples_0
+  - first:
+      213: -8629005854321724297
+    second: Dicipline_Examples_1
+  - first:
+      213: 2569162260273414085
+    second: Dicipline_Examples_2
+  - first:
+      213: 4144990558236741210
+    second: Dicipline_Examples_3
+  - first:
+      213: 7294509966929969577
+    second: Dicipline_Examples_4
+  - first:
+      213: -5791971861283124920
+    second: Dicipline_Examples_5
+  - first:
+      213: 1703469532828384777
+    second: Dicipline_Examples_6
+  - first:
+      213: 8210748165865330936
+    second: Dicipline_Examples_7
+  - first:
+      213: 1648714895906311493
+    second: Dicipline_Examples_8
+  - first:
+      213: 2938917645852101025
+    second: Dicipline_Examples_9
+  - first:
+      213: 5667382002368594469
+    second: Dicipline_Examples_10
+  - first:
+      213: 1861922150593099117
+    second: Dicipline_Examples_11
+  - first:
+      213: 4486718455427120117
+    second: Dicipline_Examples_12
+  - first:
+      213: -8485698528164416445
+    second: Dicipline_Examples_13
+  - first:
+      213: -4418623010244652815
+    second: Dicipline_Examples_14
+  - first:
+      213: -245672785075133729
+    second: Dicipline_Examples_15
+  - first:
+      213: 5683261433314933940
+    second: Dicipline_Examples_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dicipline_Examples_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41625ddfcceb2d430800000000000000
+      internalID: 3806314422722700820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7743368d4ec9f3880800000000000000
+      internalID: -8629005854321724297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 17
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfbfe5b67f77a320800000000000000
+      internalID: 2569162260273414085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 20
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e8c0d93f6f58930800000000000000
+      internalID: 4144990558236741210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1486dba2e4b3560800000000000000
+      internalID: 7294509966929969577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84949238748ce9fa0800000000000000
+      internalID: -5791971861283124920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ebfe5c380f3a710800000000000000
+      internalID: 1703469532828384777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8d79654ff62f170800000000000000
+      internalID: 8210748165865330936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d046a667961e610800000000000000
+      internalID: 1648714895906311493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34474b5d52ebc3a80800000000000000
+      internalID: -8485698528164416445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0100678c5eda2c0800000000000000
+      internalID: -4418623010244652815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2ad9257e1379cf0800000000000000
+      internalID: -245672785075133729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dicipline_Examples_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4776207c191d764eac96d359ef50628
+      internalID: 422849407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f1c0058575f564247b44da892c2c75fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dicipline_Examples_0: 3806314422722700820
+      Dicipline_Examples_1: -8629005854321724297
+      Dicipline_Examples_10: 5667382002368594469
+      Dicipline_Examples_11: 1861922150593099117
+      Dicipline_Examples_12: 4486718455427120117
+      Dicipline_Examples_13: -8485698528164416445
+      Dicipline_Examples_14: -4418623010244652815
+      Dicipline_Examples_15: -245672785075133729
+      Dicipline_Examples_16: 5683261433314933940
+      Dicipline_Examples_17: 422849407
+      Dicipline_Examples_2: 2569162260273414085
+      Dicipline_Examples_3: 4144990558236741210
+      Dicipline_Examples_4: 7294509966929969577
+      Dicipline_Examples_5: -5791971861283124920
+      Dicipline_Examples_6: 1703469532828384777
+      Dicipline_Examples_7: 8210748165865330936
+      Dicipline_Examples_8: 1648714895906311493
+      Dicipline_Examples_9: 2938917645852101025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
